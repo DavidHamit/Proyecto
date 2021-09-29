@@ -9,10 +9,10 @@
 <body>
 
 <fieldset>
-<legend class="form-box animated fadeInDown">Ejercicio</legend>
+<legend class="form-box animated fadeInDown">Ejercicio Borrar</legend>
 <form action="ServletEjercicio" method="get" class="form-box animated fadeInDown">
 
-<label for="">Horas de trabajo</label>
+<label for="">Horas de trabajo 12</label>
 <input type="text" name="horas">
 
 <input type="submit" name="btnlogin" value="Enviar">
